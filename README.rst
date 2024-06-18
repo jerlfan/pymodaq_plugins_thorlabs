@@ -43,7 +43,7 @@ Viewer0D
 
 * **Kinesis_KPA101**: Position Sensitive Photodetector Kinesis series (KPA101)
 * **TLPMPowermeter**: TLPM dll compatible series (PM101x, PM102x, PM103x, PM100USB, PM16-Series, PM160, PM400, PM100A, PM100D, PM200)
-
+* **NouveauTEST
 Viewer2D
 ++++++++
 
